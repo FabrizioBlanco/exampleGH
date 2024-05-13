@@ -7,4 +7,5 @@ export default defineConfig({
   build: {
     outDir: 'docs',
   },
+  base:"https://FabrizioBlanco.github.io/exampleGH"
 })
